@@ -1,0 +1,11 @@
+.add,
+.delete,
+.update,
+.signup,
+.login {
+  border: 1px solid grey;
+  padding: 10px;
+  max-width: 300px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
